@@ -3,7 +3,7 @@
 *.dll
 
 # Go
-go.sum
+# go.sum should be committed, removing it from here
 
 # OS
 .DS_Store
